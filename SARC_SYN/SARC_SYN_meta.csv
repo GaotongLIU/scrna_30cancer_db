@@ -1,0 +1,7 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Synovium,Tumor,SARC-SYN,Endothelial,389
+Synovium,Tumor,SARC-SYN,Epithelial,1043
+Synovium,Tumor,SARC-SYN,Fibroblast,5000
+Synovium,Tumor,SARC-SYN,Myeloid,250
+Synovium,Tumor,SARC-SYN,NK cell,8
+Synovium,Tumor,SARC-SYN,T cell,12

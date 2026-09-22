@@ -1,0 +1,6 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Bone,Tumor,SARC-EWING,Endothelial,1382
+Bone,Tumor,SARC-EWING,Fibroblast,2245
+Bone,Tumor,SARC-EWING,Myeloid,729
+Bone,Tumor,SARC-EWING,NK cell,14
+Bone,Tumor,SARC-EWING,T cell,6

@@ -1,0 +1,16 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Kidney,Tumor,RCC,B cell,83
+Kidney,Tumor,WILM,B cell,17
+Kidney,Tumor,RCC,Endothelial,934
+Kidney,Tumor,WILM,Endothelial,39
+Kidney,Tumor,RCC,Epithelial,1420
+Kidney,Tumor,WILM,Epithelial,191
+Kidney,Tumor,RCC,Fibroblast,262
+Kidney,Tumor,WILM,Fibroblast,76
+Kidney,Tumor,RCC,Myeloid,4136
+Kidney,Tumor,WILM,Myeloid,217
+Kidney,Tumor,RCC,NK cell,1694
+Kidney,Tumor,WILM,NK cell,450
+Kidney,Tumor,RCC,Plasma cell,7
+Kidney,Tumor,RCC,T cell,4726
+Kidney,Tumor,WILM,T cell,274

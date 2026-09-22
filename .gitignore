@@ -1,0 +1,5 @@
+# 大文件走 GitHub Release, 不进 git
+*.h5ad
+*.h5ad.xz
+__pycache__/
+.ipynb_checkpoints/

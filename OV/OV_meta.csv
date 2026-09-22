@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Ovary,Tumor,OV,B cell,3785
+Ovary,Tumor,OV,Endothelial,3822
+Ovary,Tumor,OV,Epithelial,5000
+Ovary,Tumor,OV,Fibroblast,5000
+Ovary,Tumor,OV,Myeloid,5000
+Ovary,Tumor,OV,NK cell,5000
+Ovary,Tumor,OV,Plasma cell,3873
+Ovary,Tumor,OV,T cell,5000

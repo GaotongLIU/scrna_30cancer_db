@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Pancreas,Tumor,PAAD,B cell,2183
+Pancreas,Tumor,PAAD,Endothelial,2303
+Pancreas,Tumor,PAAD,Epithelial,5000
+Pancreas,Tumor,PAAD,Fibroblast,5000
+Pancreas,Tumor,PAAD,Myeloid,5000
+Pancreas,Tumor,PAAD,NK cell,4130
+Pancreas,Tumor,PAAD,Plasma cell,1612
+Pancreas,Tumor,PAAD,T cell,5000

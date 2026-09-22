@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Uterus,Tumor,UCEC,B cell,116
+Uterus,Tumor,UCEC,Endothelial,3705
+Uterus,Tumor,UCEC,Epithelial,5000
+Uterus,Tumor,UCEC,Fibroblast,5000
+Uterus,Tumor,UCEC,Myeloid,1746
+Uterus,Tumor,UCEC,NK cell,209
+Uterus,Tumor,UCEC,Plasma cell,83
+Uterus,Tumor,UCEC,T cell,4555

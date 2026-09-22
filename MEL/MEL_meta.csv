@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Skin,Tumor,MEL,B cell,430
+Skin,Tumor,MEL,Endothelial,37
+Skin,Tumor,MEL,Epithelial,5000
+Skin,Tumor,MEL,Fibroblast,81
+Skin,Tumor,MEL,Myeloid,5000
+Skin,Tumor,MEL,NK cell,305
+Skin,Tumor,MEL,Plasma cell,577
+Skin,Tumor,MEL,T cell,4974

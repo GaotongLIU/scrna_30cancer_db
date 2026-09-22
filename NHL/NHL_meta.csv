@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Lymph Node,Tumor,NHL,B cell,5000
+Lymph Node,Tumor,NHL,Endothelial,1166
+Lymph Node,Tumor,NHL,Epithelial,5000
+Lymph Node,Tumor,NHL,Fibroblast,2401
+Lymph Node,Tumor,NHL,Myeloid,5000
+Lymph Node,Tumor,NHL,NK cell,1576
+Lymph Node,Tumor,NHL,Plasma cell,192
+Lymph Node,Tumor,NHL,T cell,5000

@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Bladder,Tumor,BLCA,B cell,117
+Bladder,Tumor,BLCA,Endothelial,595
+Bladder,Tumor,BLCA,Epithelial,5000
+Bladder,Tumor,BLCA,Fibroblast,2762
+Bladder,Tumor,BLCA,Myeloid,827
+Bladder,Tumor,BLCA,NK cell,239
+Bladder,Tumor,BLCA,Plasma cell,72
+Bladder,Tumor,BLCA,T cell,615

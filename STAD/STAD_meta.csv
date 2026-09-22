@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Stomach,Tumor,STAD,B cell,5000
+Stomach,Tumor,STAD,Endothelial,1245
+Stomach,Tumor,STAD,Epithelial,5000
+Stomach,Tumor,STAD,Fibroblast,1625
+Stomach,Tumor,STAD,Myeloid,5000
+Stomach,Tumor,STAD,NK cell,2964
+Stomach,Tumor,STAD,Plasma cell,2684
+Stomach,Tumor,STAD,T cell,5000

@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Skin,Tumor,SSCC,B cell,137
+Skin,Tumor,SSCC,Endothelial,191
+Skin,Tumor,SSCC,Epithelial,5000
+Skin,Tumor,SSCC,Fibroblast,694
+Skin,Tumor,SSCC,Myeloid,5000
+Skin,Tumor,SSCC,NK cell,187
+Skin,Tumor,SSCC,Plasma cell,101
+Skin,Tumor,SSCC,T cell,1048

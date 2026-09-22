@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Uvea,Tumor,UVM,B cell,571
+Uvea,Tumor,UVM,Endothelial,599
+Uvea,Tumor,UVM,Epithelial,5000
+Uvea,Tumor,UVM,Fibroblast,1244
+Uvea,Tumor,UVM,Myeloid,5000
+Uvea,Tumor,UVM,NK cell,977
+Uvea,Tumor,UVM,Plasma cell,1350
+Uvea,Tumor,UVM,T cell,5000

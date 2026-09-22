@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Thyroid,Tumor,THCA,B cell,5000
+Thyroid,Tumor,THCA,Endothelial,5000
+Thyroid,Tumor,THCA,Epithelial,5000
+Thyroid,Tumor,THCA,Fibroblast,5000
+Thyroid,Tumor,THCA,Myeloid,5000
+Thyroid,Tumor,THCA,NK cell,5000
+Thyroid,Tumor,THCA,Plasma cell,1191
+Thyroid,Tumor,THCA,T cell,5000

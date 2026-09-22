@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Bile Duct,Tumor,CHOL,B cell,461
+Bile Duct,Tumor,CHOL,Endothelial,1069
+Bile Duct,Tumor,CHOL,Epithelial,5000
+Bile Duct,Tumor,CHOL,Fibroblast,1789
+Bile Duct,Tumor,CHOL,Myeloid,3025
+Bile Duct,Tumor,CHOL,NK cell,368
+Bile Duct,Tumor,CHOL,Plasma cell,697
+Bile Duct,Tumor,CHOL,T cell,5000

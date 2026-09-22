@@ -1,0 +1,16 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Brain,Tumor,GBM,B cell,532
+Brain,Tumor,LGG,B cell,11
+Brain,Tumor,GBM,Endothelial,1900
+Brain,Tumor,LGG,Endothelial,309
+Brain,Tumor,GBM,Epithelial,4085
+Brain,Tumor,LGG,Epithelial,915
+Brain,Tumor,GBM,Fibroblast,3315
+Brain,Tumor,LGG,Fibroblast,71
+Brain,Tumor,GBM,Myeloid,4548
+Brain,Tumor,LGG,Myeloid,452
+Brain,Tumor,GBM,NK cell,1948
+Brain,Tumor,LGG,NK cell,13
+Brain,Tumor,GBM,Plasma cell,16
+Brain,Tumor,GBM,T cell,4955
+Brain,Tumor,LGG,T cell,45

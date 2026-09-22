@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Prostate,Tumor,PRAD,B cell,1612
+Prostate,Tumor,PRAD,Endothelial,5000
+Prostate,Tumor,PRAD,Epithelial,5000
+Prostate,Tumor,PRAD,Fibroblast,5000
+Prostate,Tumor,PRAD,Myeloid,5000
+Prostate,Tumor,PRAD,NK cell,1641
+Prostate,Tumor,PRAD,Plasma cell,856
+Prostate,Tumor,PRAD,T cell,5000

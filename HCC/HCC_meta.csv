@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Liver,Tumor,HCC,B cell,1393
+Liver,Tumor,HCC,Endothelial,5000
+Liver,Tumor,HCC,Epithelial,5000
+Liver,Tumor,HCC,Fibroblast,5000
+Liver,Tumor,HCC,Myeloid,5000
+Liver,Tumor,HCC,NK cell,3134
+Liver,Tumor,HCC,Plasma cell,3907
+Liver,Tumor,HCC,T cell,5000

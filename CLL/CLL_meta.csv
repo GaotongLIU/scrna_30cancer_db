@@ -1,0 +1,5 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Bone Marrow,Tumor,CLL,B cell,2331
+Bone Marrow,Tumor,CLL,Myeloid,37
+Bone Marrow,Tumor,CLL,NK cell,43
+Bone Marrow,Tumor,CLL,T cell,189

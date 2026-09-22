@@ -1,0 +1,8 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Bone,Tumor,SARC-OST,B cell,573
+Bone,Tumor,SARC-OST,Endothelial,4574
+Bone,Tumor,SARC-OST,Fibroblast,5000
+Bone,Tumor,SARC-OST,Myeloid,5000
+Bone,Tumor,SARC-OST,NK cell,1253
+Bone,Tumor,SARC-OST,Plasma cell,775
+Bone,Tumor,SARC-OST,T cell,5000

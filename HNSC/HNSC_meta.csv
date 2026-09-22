@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Head and Neck,Tumor,HNSC,B cell,5000
+Head and Neck,Tumor,HNSC,Endothelial,5000
+Head and Neck,Tumor,HNSC,Epithelial,5000
+Head and Neck,Tumor,HNSC,Fibroblast,5000
+Head and Neck,Tumor,HNSC,Myeloid,5000
+Head and Neck,Tumor,HNSC,NK cell,5000
+Head and Neck,Tumor,HNSC,Plasma cell,5000
+Head and Neck,Tumor,HNSC,T cell,5000

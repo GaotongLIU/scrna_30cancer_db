@@ -1,0 +1,8 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Adrenal Gland,Tumor,NB,B cell,96
+Adrenal Gland,Tumor,NB,Endothelial,1431
+Adrenal Gland,Tumor,NB,Epithelial,5000
+Adrenal Gland,Tumor,NB,Fibroblast,1948
+Adrenal Gland,Tumor,NB,Myeloid,768
+Adrenal Gland,Tumor,NB,NK cell,114
+Adrenal Gland,Tumor,NB,T cell,2243

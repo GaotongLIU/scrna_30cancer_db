@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Colon,Tumor,CRC,B cell,5000
+Colon,Tumor,CRC,Endothelial,3129
+Colon,Tumor,CRC,Epithelial,5000
+Colon,Tumor,CRC,Fibroblast,5000
+Colon,Tumor,CRC,Myeloid,5000
+Colon,Tumor,CRC,NK cell,5000
+Colon,Tumor,CRC,Plasma cell,5000
+Colon,Tumor,CRC,T cell,5000

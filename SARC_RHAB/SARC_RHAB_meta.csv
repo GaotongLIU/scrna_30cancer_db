@@ -1,0 +1,6 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Muscle,Tumor,SARC-RHAB,Endothelial,410
+Muscle,Tumor,SARC-RHAB,Fibroblast,5000
+Muscle,Tumor,SARC-RHAB,Myeloid,1034
+Muscle,Tumor,SARC-RHAB,NK cell,17
+Muscle,Tumor,SARC-RHAB,T cell,298

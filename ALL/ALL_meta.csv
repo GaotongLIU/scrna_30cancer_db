@@ -1,0 +1,6 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Bone Marrow,Tumor,ALL,B cell,5000
+Bone Marrow,Tumor,ALL,Myeloid,285
+Bone Marrow,Tumor,ALL,NK cell,205
+Bone Marrow,Tumor,ALL,Plasma cell,57
+Bone Marrow,Tumor,ALL,T cell,5000

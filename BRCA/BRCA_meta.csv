@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Breast,Tumor,BRCA,B cell,4672
+Breast,Tumor,BRCA,Endothelial,5000
+Breast,Tumor,BRCA,Epithelial,5000
+Breast,Tumor,BRCA,Fibroblast,5000
+Breast,Tumor,BRCA,Myeloid,5000
+Breast,Tumor,BRCA,NK cell,4278
+Breast,Tumor,BRCA,Plasma cell,5000
+Breast,Tumor,BRCA,T cell,5000

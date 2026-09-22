@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "scrna_30cancer_db: subsampled single-cell reference for 30 cancer types"
+message: "If you use this dataset, please cite the original study below."
+type: dataset
+authors:
+  - family-names: Liu
+    given-names: Gaotong
+keywords:
+  - single-cell
+  - RNA-seq
+  - pan-cancer
+  - cell2location
+license: MIT
+references:
+  - type: article
+    title: "Systematic dissection of tumor-normal single-cell ecosystems across a thousand tumors of 30 cancer types"
+    authors:
+      - family-names: Kang
+        given-names: J.
+      - family-names: Lee
+        given-names: J.-H.
+    doi: 10.1038/s41467-024-48310-4
+    journal: "Nature Communications"
+    year: 2024
+    volume: 15
+    notes: "Author Correction doi:10.1038/s41467-025-58068-y; portal https://cellatlas.kaist.ac.kr/ecosystem/"

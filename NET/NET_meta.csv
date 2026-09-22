@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Neuroendocrine,Tumor,NET,B cell,68
+Neuroendocrine,Tumor,NET,Endothelial,4632
+Neuroendocrine,Tumor,NET,Epithelial,5000
+Neuroendocrine,Tumor,NET,Fibroblast,5000
+Neuroendocrine,Tumor,NET,Myeloid,1185
+Neuroendocrine,Tumor,NET,NK cell,555
+Neuroendocrine,Tumor,NET,Plasma cell,66
+Neuroendocrine,Tumor,NET,T cell,687

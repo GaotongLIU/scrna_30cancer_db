@@ -1,0 +1,9 @@
+Organ_origin,Tissue,Cancer type,Celltype,n_cells
+Lung,Tumor,LC,B cell,5000
+Lung,Tumor,LC,Endothelial,3077
+Lung,Tumor,LC,Epithelial,5000
+Lung,Tumor,LC,Fibroblast,5000
+Lung,Tumor,LC,Myeloid,5000
+Lung,Tumor,LC,NK cell,5000
+Lung,Tumor,LC,Plasma cell,2571
+Lung,Tumor,LC,T cell,5000

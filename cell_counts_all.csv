@@ -1,0 +1,31 @@
+Organ_origin,Tissue,Cancer type,n_cells
+Adrenal Gland,Tumor,NB,11600
+Bile Duct,Tumor,CHOL,17409
+Bladder,Tumor,BLCA,10227
+Bone,Tumor,SARC-EWING,4376
+Bone,Tumor,SARC-OST,22175
+Bone Marrow,Tumor,ALL,10547
+Bone Marrow,Tumor,CLL,2600
+Bone Marrow,Tumor,MM,23307
+Brain,Tumor,GBM,45133
+Brain,Tumor,LGG,3035
+Breast,Tumor,BRCA,38950
+Colon,Tumor,CRC,38129
+Head and Neck,Tumor,HNSC,40000
+Kidney,Tumor,RCC,43523
+Kidney,Tumor,WILM,1264
+Liver,Tumor,HCC,33434
+Lung,Tumor,LC,35648
+Lymph Node,Tumor,NHL,25335
+Muscle,Tumor,SARC-RHAB,6759
+Neuroendocrine,Tumor,NET,17193
+Ovary,Tumor,OV,36480
+Pancreas,Tumor,PAAD,30228
+Prostate,Tumor,PRAD,29109
+Skin,Tumor,MEL,16404
+Skin,Tumor,SSCC,12358
+Stomach,Tumor,STAD,28518
+Synovium,Tumor,SARC-SYN,6702
+Thyroid,Tumor,THCA,36191
+Uterus,Tumor,UCEC,20414
+Uvea,Tumor,UVM,19741
