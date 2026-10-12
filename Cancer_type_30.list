@@ -1,0 +1,30 @@
+Adrenal Gland	NB
+Bile Duct	CHOL
+Bladder	BLCA
+Bone Marrow	ALL
+Bone Marrow	CLL
+Bone Marrow	MM
+Bone	SARC-EWING
+Bone	SARC-OST
+Brain	GBM
+Brain	LGG
+Breast	BRCA
+Colon	CRC
+Head and Neck	HNSC
+Kidney	RCC
+Kidney	WILM
+Liver	HCC
+Lung	LC
+Lymph Node	NHL
+Muscle	SARC-RHAB
+Neuroendocrine	NET
+Ovary	OV
+Pancreas	PAAD
+Prostate	PRAD
+Skin	MEL
+Skin	SSCC
+Stomach	STAD
+Synovium	SARC-SYN
+Thyroid	THCA
+Uterus	UCEC
+Uvea	UVM

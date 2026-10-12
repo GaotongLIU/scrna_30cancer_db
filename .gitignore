@@ -3,3 +3,8 @@
 *.h5ad.xz
 __pycache__/
 .ipynb_checkpoints/
+07.upload_releases.sh
+
+# 本地打包 tar 与上传运行日志, 不进 git
+*.tar
+upload_07.log
