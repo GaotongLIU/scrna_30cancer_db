@@ -1,0 +1,18 @@
+nohup: ignoring input
+[info] 30 个癌种; repo=GaotongLIU/scrna_30cancer_db; final=/storeData/USER/data/02.Bioinformatics_for_STOmics/01.user/liugaotong/03.prj/11.public_h5ad/03.final; gh=/storeData/USER/data/02.Bioinformatics_for_STOmics/01.user/liugaotong/01.miniforge/miniforge3/envs/py310/bin/gh; timeout=300s
+[info] 确保 repo GaotongLIU/scrna_30cancer_db 存在
+GraphQL: Name already exists on this account (createRepository)
+[warn] 重试 (1/3): /storeData/USER/data/02.Bioinformatics_for_STOmics/01.user/liugaotong/01.miniforge/miniforge3/envs/py310/bin/gh repo create GaotongLIU/scrna_30cancer_db --public --description Subsampled scRNA reference for 30 cancer types
+GraphQL: You have created too many repositories, too quickly. Please try again later. (createRepository)
+[warn] 重试 (2/3): /storeData/USER/data/02.Bioinformatics_for_STOmics/01.user/liugaotong/01.miniforge/miniforge3/envs/py310/bin/gh repo create GaotongLIU/scrna_30cancer_db --public --description Subsampled scRNA reference for 30 cancer types
+GraphQL: You have created too many repositories, too quickly. Please try again later. (createRepository)
+[warn] 重试 (3/3): /storeData/USER/data/02.Bioinformatics_for_STOmics/01.user/liugaotong/01.miniforge/miniforge3/envs/py310/bin/gh repo create GaotongLIU/scrna_30cancer_db --public --description Subsampled scRNA reference for 30 cancer types
+GraphQL: You have created too many repositories, too quickly. Please try again later. (createRepository)
+[err] 重试 4 次仍失败: /storeData/USER/data/02.Bioinformatics_for_STOmics/01.user/liugaotong/01.miniforge/miniforge3/envs/py310/bin/gh repo create GaotongLIU/scrna_30cancer_db --public --description Subsampled scRNA reference for 30 cancer types
+[info] 无新改动可 commit
+remote: To https://github.com/GaotongLIU/scrna_30cancer_db.git
+   8cc5de7..3116bc6  main -> main
+Branch main set up to track remote branch main from origin.
+[skip] NB 远端 asset 已完整 (29459836 bytes)
+[release] CHOL  tag=chol  size=56234196
+[release] BLCA  tag=blca  size=47787844
